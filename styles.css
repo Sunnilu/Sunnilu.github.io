@@ -26,13 +26,13 @@
 .header-title {
     font-size: 2em;
     margin-left: 20px;
-    color: #fff; /* Adjust the color to fit your theme */
+    color: #ffffff; /* Adjust the color to fit your theme */
 }
 
 /* Home Section */
 #home {
     padding: 40px 20px;
-    background-color: #f8f8f8; /* Optional background color */
+    background-color: #4fa912; /* Optional background color */
 }
 
 .container {
